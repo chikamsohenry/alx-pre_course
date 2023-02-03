@@ -1,1 +1,1 @@
-this is my first readme created under this git directory
+creating my first readme under this git directory as a software engieering student of ALX
